@@ -1,4 +1,4 @@
-# Certificates Repository
+# Certificates Repository #
 
 This repository contains my academic and professional certificates.
 
